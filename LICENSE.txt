@@ -1,3 +1,4 @@
+The following License is for script.js
 The MIT License (MIT)
 
 Copyright (c) 2025 Lucas Bebber (https://codepen.io/lbebber/pen/xbZKvQ)
